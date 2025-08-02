@@ -94,18 +94,18 @@ The output will be saved in the `dist/` folder.
 ## Screenshots
 
 ### Home :
-![Home Screenshot](./src/assets/screenshots/Home%20page.png)
+![Home Screenshot](./src/assets/imagess/screenshots/Home%20page.png)
 
 ### Menu :
-![Menu Screenshot](./src/assets/screenshots/Menu.png)
+![Menu Screenshot](./src/assets/imagess/screenshots/Menu.png)
 
 ### ViewDetails :
-![ViewDetails Screenshot](./src/assets/screenshots/ViewDetails1.png )
-![ViewDetails Screenshot](./src/assets/screenshots/ViewDetails2.png )
+![ViewDetails Screenshot](./src/assets/imagess/screenshots/ViewDetails1.png)
+![ViewDetails Screenshot](./src/assets/imagess/screenshots/ViewDetails2.png )
 ### Order :
-![Order Screenshot](./src/assets/screenshots/Place%20Your%20order.png)
+![Order Screenshot](./src/assets/imagess/screenshots/Place%20Your%20order.png)
 ### contactUs :
-![ContactUs Screenshot](./src/assets/screenshots/ContactUs.png)
+![ContactUs Screenshot](./src/assets/imagess/screenshots/ContactUs.png)
 
 
 
