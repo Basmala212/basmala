@@ -33,13 +33,17 @@ const Menu = () => {
               <div className="card-body d-flex flex-column">
                 <h5 className="card-title">{recipe.title}</h5>
                 <p className="card-text">Publisher: {recipe.publisher}</p>
+                <p className="card-text fw-bold text-success">
+                  Price: ${Math.floor(Math.random() * 10) + 10}.99
+                </p>
                 <div className="mt-auto d-flex justify-content-between">
                   <Link to={`/details/${recipe.recipe_id}`} className="btn btn-sm btn-outline-dark">
                     View Details
                   </Link>
                   <Link
                     to={`/order?item=${encodeURIComponent(recipe.title)}`}
-                    className="btn btn-add-to-cart">
+                    className="btn btn-add-to-cart"
+                  >
                     Add to Cart
                   </Link>
                 </div>
